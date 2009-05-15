@@ -1,0 +1,56 @@
+<window type="scrollingnews" scrollrate="20" width="252" height="324" loop="true" background="Black">
+<font size="+1" face="Comic Sans MS" color="White">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+The kiosk, or "shared interaction space" 
+as they prefer calling it, uses MP3 files 
+to demonstrate semantic web technologies. 
+MP3 files were chosen because they are easy 
+to understand as being "things" that can have 
+additional data attached to them 
+("artist," "album," "year," etc.). 
+This additional data in MP3 files is stored 
+in "ID3 tags," which are basically the portion 
+of the file that tells the computer about that 
+extra information. An MP3 file on an iPhone then 
+is already a semantically annotated object which 
+can be read by a computer.
+<br/>
+<br/>
+To demonstrate semantics in action, participants
+ in the experiment would place an iPhone on the 
+kiosk's surface and watch as a circle appeared 
+around it. Next to the iPhone, a list of songs 
+arranged by artist, title, or genre would then appear. 
+Elsewhere on the screen were things called "spotlets," 
+or intelligent information agents that performed 
+actions when the songs were dragged to them. 
+For example, one spotlet played the MP3 when 
+it was dragged there, another played YouTube 
+music videos from the same band.
+<br/>
+<br/>
+http://www.readwriteweb.com/archives/interactive_iphone_kiosk_lets_you_play_with_semantic_web.php
+<br/>
+<br/>
+</font>
+</window>

@@ -170,7 +170,7 @@
            transIn="transition_2" 
            dur="indefinite">
         <area 
-              href="command:seek(0:0:0)" 
+              href="command:seek(0:0:1)" 
               target="_player" 
               id="areaStop"/>
       </img>
