@@ -152,28 +152,28 @@
            region="menu">
         <anchor 
                 href="deteccaoMov.smil" 
-                id="anchorDM" 
-                coords="0,36,156,54"/>
+                id="anchor_givy" 
+                coords="0,36,120,54"/>
         <anchor 
                 href="multiTable.smil" 
-                id="anchorMT" 
+                id="anchor_shtik" 
                 coords="0,72,108,84"/>
         <anchor 
                 href="multiWindow.smil" 
-                id="anchorMW" 
-                coords="0,108,126,120"/>
+                id="anchor_oplo" 
+                coords="0,102,120,120"/>
         <anchor 
                 href="luminFoil.smil" 
-                id="anchorLPF" 
-                coords="276,36,402,54"/>
+                id="anchor_kfecz" 
+                coords="252,36,402,54"/>
         <anchor 
                 href="uTouch.smil" 
-                id="anchorUT" 
+                id="anchor_uv" 
                 coords="348,72,402,84"/>
         <anchor 
-                href="cristalLine.smil" 
-                id="anchorCL" 
-                coords="336,108,402,120"/>
+                href="kiosks.smil" 
+                id="anchor_fdgxy" 
+                coords="366,102,396,114"/>
       </img>
       <img 
            id="imgPlay" 
