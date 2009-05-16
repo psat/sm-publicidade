@@ -1,0 +1,70 @@
+<window type="scrollingnews" scrollrate="20" width="252" height="324" loop="true" background="Black">
+<font size="+1" face="Comic Sans MS" color="White">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+The principal methods by which motion can be 
+electronically identified are optical detection 
+and acoustical detection. Infrared light or laser 
+technology may be used for optical detection. 
+Motion detection devices, such as motion detectors, 
+have sensors that detect movement and send a signals 
+to a sound device that produces an alarm or switch on 
+an image recording device. There are motion detectors 
+which employ cameras connected to a computer which 
+stores and manages captured images to be viewed later 
+or viewed over a computer network.
+<br/>
+<br/>
+The chief applications for such detection 
+are (a) detection of unauthorized entry, (b) 
+detection of cessation of occupancy of an area 
+to extinguish lighting and (c) detection of a 
+moving object which triggers a camera to 
+record subsequent events. The motion detector 
+is thus a linchpin of electronic security systems,
+ but is also a valuable tool in preventing the 
+ illumination of unoccupied spaces.
+<br/>
+<br/>
+A simple algorithm for motion detection by a 
+fixed camera compares the current image with a 
+reference image and simply counts the number of 
+different pixels. Since images will naturally 
+differ due to factors such as varying lighting, 
+camera flicker, and CCD dark currents, 
+pre-processing is useful to reduce the number 
+of false positive alarms.
+<br/>
+<br/>
+More complex algorithms are necessary to detect 
+motion when the camera itself is moving, or when 
+the motion of a specific object must be detected 
+in a field containing other movement which can 
+be ignored. An example might be a painting 
+surrounded by visitors in an art gallery.
+<br/>
+<br/>
+http://en.wikipedia.org/wiki/Motion_detection
+<br/>
+<br/>
+</font>
+</window>
