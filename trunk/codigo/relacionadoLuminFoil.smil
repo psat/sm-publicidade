@@ -170,12 +170,12 @@
       </img>
       <img 
            fit="fill" 
-           src="Imagens/nesquikMov.png" 
+           src="Imagens/luminFoil.png" 
            region="regionVideo1" 
            z-index="2" 
            id="video1">
         <area 
-              href="deteccaoMov.smil"/>
+              href="luminFoil.smil"/>
       </img>
       <img 
            fit="meet" 
@@ -186,7 +186,7 @@
            transIn="transition_3" 
            dur="indefinite"/>
       <img 
-           src="Imagens/tituloDeteccao.png" 
+           src="Imagens/tituloLuminFoil.png" 
            id="imgTitulo" 
            fit="meet" 
            region="regionTitulo" 
@@ -200,32 +200,26 @@
            dur="indefinite" 
            id="imgPrevious">
         <area 
-              href="deteccaoMov.smil"/>
+              href="luminFoil.smil"/>
       </img>
       <img 
            fit="fill" 
            id="video2" 
-           src="Imagens/deteccaoMov1.png" 
+           src="Imagens/luminFoil1.png" 
            region="regionVideo2">
         <area 
-              href="deteccaoMov1.smil"/>
+              href="luminFoil1.smil"/>
       </img>
       <img 
-           src="Imagens/deteccaoMov3.png" 
+           src="Imagens/luminFoil2.png" 
            fit="fill" 
            id="video3" 
-           region="regionVideo3">
-        <area 
-              href="deteccaoMov3.smil"/>
-      </img>
+           region="regionVideo3"/>
       <img 
            id="video4" 
-           src="Imagens/deteccaoMov4.png" 
+           src="Imagens/luminFoil3.png" 
            fit="fill" 
-           region="regionVideo4">
-        <area 
-              href="deteccaoMov4.smil"/>
-      </img>
+           region="regionVideo4"/>
       <img 
            fit="meet" 
            src="Imagens/Frame1.png" 
@@ -253,7 +247,7 @@
       <text 
             fit="fill" 
             region="regionText" 
-            src="txtDescricaoMov.rt"/>
+            src="txtDescricaoEL.rt"/>
       <excl 
             dur="indefinite">
         <par 
@@ -277,28 +271,6 @@
         </par>
         <par 
              begin="video2.outOfBoundsEvent" 
-             end="regionViz1"/>
-        <par 
-             begin="video3.inBoundsEvent" 
-             dur="1s">
-          <img 
-               src="Imagens/visualizar.png" 
-               fit="fill" 
-               region="regionViz1"/>
-        </par>
-        <par 
-             begin="video3.outOfBoundsEvent" 
-             end="regionViz1"/>
-        <par 
-             begin="video4.inBoundsEvent" 
-             dur="1s">
-          <img 
-               src="Imagens/visualizar.png" 
-               fit="fill" 
-               region="regionViz1"/>
-        </par>
-        <par 
-             begin="video4.outOfBoundsEvent" 
              end="regionViz1"/>
       </excl>
     </par>
