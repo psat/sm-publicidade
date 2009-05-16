@@ -170,12 +170,12 @@
       </img>
       <img 
            fit="fill" 
-           src="Imagens/nesquikMov.png" 
+           src="Imagens/multiWindows.png" 
            region="regionVideo1" 
            z-index="2" 
            id="video1">
         <area 
-              href="deteccaoMov.smil"/>
+              href="multiWindow.smil"/>
       </img>
       <img 
            fit="meet" 
@@ -186,7 +186,7 @@
            transIn="transition_3" 
            dur="indefinite"/>
       <img 
-           src="Imagens/tituloDeteccao.png" 
+           src="Imagens/tituloMultiWindows.png" 
            id="imgTitulo" 
            fit="meet" 
            region="regionTitulo" 
@@ -200,31 +200,31 @@
            dur="indefinite" 
            id="imgPrevious">
         <area 
-              href="deteccaoMov.smil"/>
+              href="multiWindow.smil"/>
       </img>
       <img 
            fit="fill" 
            id="video2" 
-           src="Imagens/deteccaoMov1.png" 
+           src="Imagens/multiWindows1.png" 
            region="regionVideo2">
         <area 
-              href="deteccaoMov1.smil"/>
+              href="multiWindow1.smil"/>
       </img>
       <img 
-           src="Imagens/deteccaoMov3.png" 
+           src="Imagens/multiWindows2.png" 
            fit="fill" 
            id="video3" 
            region="regionVideo3">
         <area 
-              href="deteccaoMov3.smil"/>
+              href="MultiWindow2.smil"/>
       </img>
       <img 
            id="video4" 
-           src="Imagens/deteccaoMov4.png" 
+           src="Imagens/multiWindows3.png" 
            fit="fill" 
            region="regionVideo4">
         <area 
-              href="deteccaoMov4.smil"/>
+              href="multiWindow3.smil"/>
       </img>
       <img 
            fit="meet" 
@@ -253,7 +253,7 @@
       <text 
             fit="fill" 
             region="regionText" 
-            src="txtDescricaoMov.rt"/>
+            src="txtDescricaoMultiWindows.rt"/>
       <excl 
             dur="indefinite">
         <par 
