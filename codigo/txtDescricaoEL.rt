@@ -1,0 +1,69 @@
+<window type="scrollingnews" scrollrate="20" width="252" height="324" loop="true" background="Black">
+<font size="+1" face="Comic Sans MS" color="White">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+The display applications are primarily "passive" 
+(i.e. voltages are driven from edge of the display.) 
+Similar to LCD trends, there have also been Active 
+Matrix EL (AMEL) displays demonstrated, where circuitry 
+is added to prolong voltages at each pixel. 
+The solid state nature of TFEL allows for a very 
+rugged and high resolution display fabricated even 
+on silicon substrates. AMEL displays of 1280x1024 at 
+over 1000 lines per inch (lpi) have been demonstrated 
+by a consortium including Planar Systems. 
+{A couple of references for AMEL include 
+Ron Khormaei, et.al., " High Resolution Active 
+Matrix Electroluminescent Display," Society for 
+Information Display Digest, p. 137, 1994. And at 
+Planar's http://www.planar.com/advantages/whitepapers/docs/overview.pdf)
+The world's first electroluminescent billboard 
+campaign, Canada, Winter 2005
+<br/>
+<br/>
+Electroluminescent technologies have low power 
+consumption compared to competing lighting technologies, 
+such as neon or fluorescent lamps. This, together with 
+the thinness of the material, has made EL technology 
+valuable to the advertising industry. Relevant 
+advertising applications include electroluminescent 
+billboards and signs. EL manufacturers are able to 
+control precisely which areas of an electroluminescent 
+sheet illuminate, and when. This has given advertisers 
+the ability to create more dynamic advertising which is 
+still compatible with traditional advertising spaces.
+<br/>
+<br/>
+In principle, EL lamps can be made in any color. However, 
+the commonly-used greenish color closely matches the peak 
+sensitivity of human vision, producing the greatest apparent 
+light output for the least electrical power input. 
+Unlike neon and fluorescent lamps, EL lamps are not negative 
+resistance devices so no extra circuitry is needed to regulate 
+the amount of current flowing through them.
+<br/>
+<br/>
+http://en.wikipedia.org/wiki/Electroluminescence
+<br/>
+<br/>
+</font>
+</window>
