@@ -122,6 +122,7 @@
               dur="indefinite" 
               alt="Home"/>
       </img>
+	  <seq>
       <video 
              fit="fill" 
              src="Videos/ydreamsBall.mpg" 
@@ -130,6 +131,15 @@
         <area 
               href="relacionadoDeteccao.smil"/>
       </video>
+	  	  <img 
+             fit="fill" 
+             src="Imagens/transp.png" 
+             region="regionVideo" 
+             z-index="3">
+        <area 
+              href="relacionadoDeteccao.smil" actuate="onLoad"/>
+      </img>
+	  </seq>
       <img 
            fit="meet" 
            src="Imagens/Frame1.png" 
@@ -170,7 +180,7 @@
            transIn="transition_2" 
            dur="indefinite">
         <area 
-              href="command:seek(0:0:0)" 
+              href="command:seek(0:0:1)" 
               target="_player" 
               id="areaStop"/>
       </img>
