@@ -122,14 +122,24 @@
               dur="indefinite" 
               alt="Home"/>
       </img>
+	  <seq>
       <video 
              fit="fill" 
              src="Videos/panasonicMultiTable.mpg" 
              region="regionVideo" 
              z-index="2">
         <area 
-              href="relacionadoMultiTable.smil"/>
+              href="relacionadoMultiTables.smil"/>
       </video>
+	  	  	  	  <img 
+             fit="fill" 
+             src="Imagens/transp.png" 
+             region="regionVideo" 
+             z-index="3">
+        <area 
+              href="relacionadoMultiTables.smil" actuate="onLoad"/>
+      </img>
+	  </seq>
       <img 
            fit="meet" 
            src="Imagens/Frame1.png" 
